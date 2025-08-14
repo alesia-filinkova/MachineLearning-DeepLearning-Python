@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris",
+        "learned": true
+    },
+    {
+        "question": "What is 2 + 2?",
+        "answer": "4",
+        "learned": false
+    },
+    {
+        "question": "What is 10 - 4",
+        "answer": "6",
+        "learned": false
+    },
+    {
+        "question": "1",
+        "answer": "1",
+        "learned": false
+    }
+]
